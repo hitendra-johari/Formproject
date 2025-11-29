@@ -1,0 +1,19 @@
+body {
+  background: #1A1A2E;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  padding-top: 20px;
+  color: #fff;
+}
+.card {
+  background: #ffffffdd;
+  border-radius: 15px;
+}
+button {
+  transition: 0.3s;
+}
+button:hover {
+  transform: scale(1.05);
+}
